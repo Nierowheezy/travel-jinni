@@ -16,7 +16,7 @@ const RightHeroSection = () => {
                         />
                     </div>
                     <div className="sm:ml-4 sm:mt-4 mt-8 text-center border border-white">
-                        <h1 className="head-t font-bold font-mono tracking-wide px-3">
+                        <h1 className="head-t font-bold font-mono tracking-wide px-3 p-2">
                             HILTON HOTEL
                         </h1>
                         <h2 className="bg-white text-black text-xl pb-1">
@@ -24,7 +24,7 @@ const RightHeroSection = () => {
                         </h2>
                     </div>
                 </div>
-                <div className="div-w ml-40 sm:ml-40 text-center border-white border mt-8 sm:mt-2 sm:pt-8 px-4 bg-gray-400 bg-opacity-10 blur-filter rounded-md">
+                <div className="div-w ml-40 sm:ml-40 text-center border-white border mt-8 sm:mt-2 sm:pt-8 px-4 p-4 bg-gray-400 bg-opacity-10 blur-filter rounded-md">
                     <h1 className="text-5xl font-serif font-bold pb-5 px-4">
                         Your Trip Awaits You!
                     </h1>
